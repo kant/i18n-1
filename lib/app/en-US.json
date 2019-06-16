@@ -66,12 +66,12 @@
       "error_required": "required field",
       "error_email": {
         "invalid": "Invalid e-mail adress",
-        "duplicate": "E-mail already registred"
+        "duplicate": "E-mail already registered"
       }
     },
     "setup": {
       "title": "🤗  Define your preferences",
-      "feedback": "Follow the Gitscout feedback repositoty.",
+      "feedback": "Follow the Gitscout feedback repository.",
       "autolaunch": "Launch Gitscout at login.",
       "notifications": "Display desktop notifications",
       "btn": "Let me in"
@@ -381,7 +381,7 @@
       "display_notifications": "Display notifications",
       "version": "You're currently running version %(version)s",
       "btn_update": "Check for update now",
-      "btn_update_checking": "Contacting the internets",
+      "btn_update_checking": "Contacting the internet",
       "free_version": "You are using the <span class=\"ff-tag\">Free</span> version of Gitscout!",
       "go_premium": "Treat Yo'self!",
       "btn_upgrade": "Treat Yo'self to Premium!",
